@@ -1,6 +1,6 @@
 # Real-Time Video Conferencing App
 
-** Features :
+* Features :
 
 -Secure video/audio communication (WebRTC)
 
@@ -8,9 +8,10 @@
 
 -Chat and participant management
 
-# Tech Stack:
+* Tech Stack:
 
 -Node.js (Signaling Server), React, WebRTC, Socket.IO
 
-# output screen :
+### output screen :
 
+![Image](https://github.com/user-attachments/assets/7f9bb479-37fe-4501-b0ac-ede0eb825827)
